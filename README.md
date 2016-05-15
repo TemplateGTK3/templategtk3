@@ -1,5 +1,2 @@
-# templategtk3
-Template for GTK3 project
-
-
-# 
+# Template for GTK3 project
+ 
