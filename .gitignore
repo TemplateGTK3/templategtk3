@@ -30,3 +30,11 @@
 
 # Debug files
 *.dSYM/
+
+*.pro.user
+*.pro.user.*
+example.pro.*
+build/*
+.settings/*
+Makefile
+
